@@ -1,4 +1,5 @@
-Steps tto run
+Steps to run
+
 
 
 git clone
